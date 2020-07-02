@@ -14,8 +14,6 @@ import csv
 #         for line in accounts:
 #             accounts2.writerow((line,line[1]))
 
-#new change added
-
 # person = ("John", 100, False, "New_York")
 # if person[2]:
 #     print(person[1]*.1)
